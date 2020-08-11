@@ -166,14 +166,14 @@ We used [Figma](https://www.figma.com/) to perform this requirement, this is [ou
 
 ### JavaScript
 
-* [ ] Uso de condicionales (if-else | switch | operador ternario)
+* [ x] Uso de condicionales (if-else | switch | operador ternario)
 * [ X ] Uso de bucles (for | for..in | for..of | while)
-* [ ] Uso de funciones (parámetros | argumentos | valor de retorno)
+* [ x ] Uso de funciones (parámetros | argumentos | valor de retorno)
 * [ x ] Manipular arrays (filter | map | sort | reduce)
 * [ x ] Manipular objects (key | value)
 * [ x ] Uso ES modules ([`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 | [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export))
-* [ ] Diferenciar entre expression y statements.
+* [ x ] Diferenciar entre expression y statements.
 * [ ] Diferenciar entre tipos de datos atómicos y estructurados.
 
 ### Testing
@@ -184,7 +184,7 @@ We used [Figma](https://www.figma.com/) to perform this requirement, this is [ou
 
 * [ x ] Organizar y dividir el código en módulos (Modularización)
 * [ x ] Uso de identificadores descriptivos (Nomenclatura | Semántica)
-* [ x ] Uso de linter (ESLINT)
+* [  ] Uso de linter (ESLINT)
 
 ### Git y GitHub
 
@@ -197,4 +197,4 @@ We used [Figma](https://www.figma.com/) to perform this requirement, this is [ou
 * [ x ] Diseñar la aplicación pensando y entendiendo al usuario.
 * [ x ] Crear prototipos para obtener feedback e iterar.
 * [ x ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía)
-* [ x ] Planear y ejecutar tests de usabilidad.
+* [  ] Planear y ejecutar tests de usabilidad.

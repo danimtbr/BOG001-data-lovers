@@ -154,14 +154,14 @@ We used [Figma](https://www.figma.com/) to perform this requirement, this is [ou
 
 * [ x ] [Uso de HTML semántico.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
 * [ x ] Uso de selectores de CSS.
-* [ x ] Construir tu aplicación respetando el diseño realizado (maquetación).
+* [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 * [ x ] [Uso de flexbox en CSS.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### DOM y Web APIs
 
 * [ x ] Uso de selectores del DOM.
 * [ x ] Manejo de eventos del DOM.
-* [ x ] [Manipulación dinámica del DOM.](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
+* [ ] [Manipulación dinámica del DOM.](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
 (appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
 
 ### JavaScript
@@ -173,7 +173,7 @@ We used [Figma](https://www.figma.com/) to perform this requirement, this is [ou
 * [ x ] Manipular objects (key | value)
 * [ x ] Uso ES modules ([`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 | [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export))
-* [ x ] Diferenciar entre expression y statements.
+* [  ] Diferenciar entre expression y statements.
 * [ ] Diferenciar entre tipos de datos atómicos y estructurados.
 
 ### Testing
@@ -184,7 +184,7 @@ We used [Figma](https://www.figma.com/) to perform this requirement, this is [ou
 
 * [ x ] Organizar y dividir el código en módulos (Modularización)
 * [ x ] Uso de identificadores descriptivos (Nomenclatura | Semántica)
-* [  ] Uso de linter (ESLINT)
+* [ x] Uso de linter (ESLINT)
 
 ### Git y GitHub
 
